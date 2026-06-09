@@ -72,7 +72,7 @@ These insights demonstrate how a unified dashboard improves visibility and decis
 
 ---
 
-## 🚀 **Applications**
+##  **Applications**
 This dashboard can be adapted for:
 - Software development teams  
 - DevOps monitoring  
